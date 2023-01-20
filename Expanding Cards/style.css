@@ -58,6 +58,10 @@ body {
     width: 100vw;
   }
 
+  .panel.active h3 {
+    left: 0;
+  }
+
   .panel:nth-of-type(4),
   .panel:nth-of-type(5) {
     display: none;
